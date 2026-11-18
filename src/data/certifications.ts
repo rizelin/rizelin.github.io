@@ -76,7 +76,7 @@ export const languageSkills: LanguageSkill[] = [
   },
   {
     language: { ja: "英語", ko: "영어", en: "English" },
-    level: { ja: "日常会話レベル（カナダ語学留学）", ko: "일상회화 수준 (캐나다 어학연수)", en: "Conversational (studied in Canada)" },
-    proficiency: 55,
+    level: { ja: "基本的な日常会話が可能（学習継続中）", ko: "기본적인 일상회화 가능 (계속 학습 중)", en: "Basic conversation (still improving)" },
+    proficiency: 40,
   },
 ];
